@@ -1,2 +1,2 @@
 this should be added to fix14 branch
-
+now introducing one command commit not the ammend, for part 1 point 10 topic coverage, there I did amend the commit.
